@@ -19,3 +19,18 @@
   
   My goal at this Bootcamp is to gather all experience and knowledge that i can get from this bootcamp and hopefully i can applied to my future project
   
+  
+- 10/18/2022
+  
+  EXPERIENCE
+  
+  Im focusing on my task today and im really satisfied what i have done today cause i already finish my task just on the first day
+  
+  TEAM PROJECT TOPIC
+  
+  My team project topic is a warehouse item management that can add some item and you can decrease or increase the item quantity or if the item is no longer on the     warehouse you can delete it
+  
+  WHAT I HAVE DONE SO FAR
+  
+  - Finishing my task which is creating create function on my team project
+  - Deploy my repository to heroku app and its working perfectly on deploy environment
