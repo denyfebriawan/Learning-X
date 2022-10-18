@@ -22,15 +22,22 @@
   
 - 10/18/2022
   
-  EXPERIENCE
+  TEAM GOAL
   
-  Im focusing on my task today and im really satisfied what i have done today cause i already finish my task just on the first day
-  
-  TEAM PROJECT TOPIC
-  
-  My team project topic is a warehouse item management that can add some item and you can decrease or increase the item quantity or if the item is no longer on the     warehouse you can delete it
+  Finishing all of the feature we had on the app ASAP
   
   WHAT I HAVE DONE SO FAR
   
   - Finishing my task which is creating create function on my team project
   - Deploy my repository to heroku app and its working perfectly on deploy environment
+
+  REFLECTION
+  
+  - Great Thing
+    - Finishing my task
+  - What i need to improve
+    - Communication with my teammate
+  
+  PLAN FOR TOMORROW
+  
+  Helping my teammate finishing their task
