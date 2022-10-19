@@ -41,3 +41,31 @@
   PLAN FOR TOMORROW
   
   Helping my teammate finishing their task
+ 
+ - 10/19/2022
+  
+  TEAM PROGRESS
+  
+  Integrating all function into one repository
+  
+  WHAT I HAVE COMPLETED TODAY
+  
+  Integrating all function into and fixing some view layout
+  
+  NEW THINGS THAT I LEARNED
+  
+  There is much more potential function than just CRUD on our project
+  
+  REFLECTION
+  
+  - great thing
+    - Success on integrating all fucntion
+    - Fixing the view layout
+  - need to improve
+    - Need to explore more function that can be implemented to our project
+    
+  PLAN FOR TOMORROW
+  
+  - Implementing search function
+  - Finishing update function
+  - If there some spare time we would implement login system
