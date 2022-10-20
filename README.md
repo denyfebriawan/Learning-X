@@ -69,3 +69,28 @@
     - Implementing search function
     - Finishing update function
     - If there some spare time we would implement login system
+   
+ - 10/20/2022
+    
+     ‘SpartaCodingClub’ ‘LXI-Sparta Bootcamp’ ‘Full-Stack’ ‘Coding’
+    
+    TEAM PROGRESS
+    - finish all of the task and submitted our project to LearningX Bootcamp
+    
+    WHAT I HAVE COMPLETED TODAY
+    - Finishing update function which is increase and decrease a variable quantity and the same time changing the database records too
+    - Add search bar to our project that can search depends on what you input on search bar
+    - Succesfully deploy our project to heroku
+    
+    REFLECTION
+    - Great thing
+      - Finishing update function which is increase and decrease a variable quantity and the same time changing the database records too
+      - Add search bar to our project that can search depends on what you input on search bar
+      - Succesfully deploy our project to heroku
+    - Need to improve
+      - View layout need some improvement
+      
+    
+    PLAN FOR TOMORROW
+    
+    - Progress more
