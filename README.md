@@ -94,3 +94,8 @@
     PLAN FOR TOMORROW
     
     - Progress more
+    
+ - 10/24/2022
+   - Today i learn about the basic of React JS
+   - understanding what is an object in react
+   - learning how destructuring assignment work
