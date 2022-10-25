@@ -99,3 +99,14 @@
    - Today i learn about the basic of React JS
    - understanding what is an object in react
    - learning how destructuring assignment work
+
+ - 10/25/2022
+   
+   - WHAT I LEARNED TODAY
+     - Instead of using componentWillUnmount method we can use removeEventListener method if we cant use lifecycle method
+     - Fixing Yarn packet manager using these solution
+       - yarn config set cache-folder c:\root\yarn\cache
+       - yarn config set prefix c:\root\yarn\packages
+    
+    - PLAN FOR TOMORROW
+      - Finish personal task ASAP
