@@ -110,3 +110,16 @@
     
     - PLAN FOR TOMORROW
       - Finish personal task ASAP
+      
+  - [SpartaCodingClub Full-Stack Bootcamp in Indonesia] 10/26/2022
+  
+    - WHAT I LEARNED TODAY
+      - I finally understand what is component and how to pass data to props properly
+      - Typo is really annoying sometimes so i need to focus more
+    
+    - WHAT DID YOU DO WELL
+      -Finish my personal task
+    
+    - WHAT I NEED TO IMPROVE
+      - Need to learn more about React
+      - Need to be more focus 
