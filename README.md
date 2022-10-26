@@ -118,7 +118,7 @@
       - Typo is really annoying sometimes so i need to focus more
     
     - WHAT DID YOU DO WELL
-      -Finish my personal task
+      - Finish my personal task
     
     - WHAT I NEED TO IMPROVE
       - Need to learn more about React
