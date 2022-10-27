@@ -122,4 +122,15 @@
     
     - WHAT I NEED TO IMPROVE
       - Need to learn more about React
-      - Need to be more focus 
+      - Need to be more focus
+
+  - 10/26/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to deploy reactJS without nodeJS in heroku
+      
+    - WHAT DID I DO WELL
+      - Finish all my personal task and mini-test on time
+      
+    - WHAT I NEED TO IMPROVE
+      - Need some more excercise on coding ReactJS
