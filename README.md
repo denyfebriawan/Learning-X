@@ -134,3 +134,14 @@
       
     - WHAT I NEED TO IMPROVE
       - Need some more excercise on coding ReactJS
+
+  - 10/28/2022
+    
+    - WHAT I LEARNED TODAY
+      - Learning fundamental javascript like data types, condition, iteration etc with Mentor Justin
+      
+    - WHAT DID I DO WELL
+      - Understanding all subject on mentoring section
+    
+    - WHAT I NEED TO IMPROVE
+      - Study more even after the end of bootcamp focus time
