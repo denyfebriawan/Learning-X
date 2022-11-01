@@ -145,3 +145,25 @@
     
     - WHAT I NEED TO IMPROVE
       - Study more even after the end of bootcamp focus time
+ 
+  - 10/31/2022
+  
+    - WHAT I LEARNED TODAY
+      - Learning what is styled component from W3 lecture video
+    
+    - WHAT I DID I DO WELL
+      - Fully understand what is styled component and how to use it
+      
+    - WHAT I NEED TO IMPROVE
+      - Spare some time for learning the W3 lecture video
+      
+  - 10/1/2022
+    
+    - WHAT I LEARNED TODAY
+      - Learning what is REDUX
+      
+    - WHAT I DID I DO WELL
+      - Fully understand what is REDUX
+    
+    - WHAT I NEED TO IMPROVE
+      - Spend some more time for W3 lecture video
