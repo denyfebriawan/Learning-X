@@ -157,7 +157,7 @@
     - WHAT I NEED TO IMPROVE
       - Spare some time for learning the W3 lecture video
       
-  - 10/1/2022
+  - 11/1/2022
     
     - WHAT I LEARNED TODAY
       - Learning what is REDUX
@@ -167,3 +167,18 @@
     
     - WHAT I NEED TO IMPROVE
       - Spend some more time for W3 lecture video
+      
+  - 11/2/2022
+  
+    - WHAT I LEARNED TODAY
+      - Learning what is useState
+      - Learning what is useEffect
+      - Learning what is react-route-dom
+      
+    - WHAT I DID I DO WELL
+      - Fully understand what is useState
+      - Fully understand what is useEffect
+      - Fully understand what is react-route-dom
+      
+    - WHAT I NEED TO IMPROVE
+      - Need some more time for learning React JS
