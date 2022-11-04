@@ -182,3 +182,15 @@
       
     - WHAT I NEED TO IMPROVE
       - Need some more time for learning React JS
+
+
+  - 11/4/2022
+    
+    - WHAT I LEARNED TODAY
+      - Learning about JSON server
+      
+    - WHAT I DID I DO WELL
+      - Finishing wireframe
+    
+    - WHAT I NEED TO IMPROVE
+      - Time management
