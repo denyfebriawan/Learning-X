@@ -194,3 +194,15 @@
     
     - WHAT I NEED TO IMPROVE
       - Time management
+      
+      
+  - 11/7/2022
+  
+    - WHAT I LEARNED TODAY
+      - Learning about JSON server
+      
+    - WHAT I DID I DO WELL
+      - Setting up github for the team
+      
+    - WHAT I NEED TO IMPROVE
+      - Still the same, im still lack of time management
