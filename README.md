@@ -206,3 +206,16 @@
       
     - WHAT I NEED TO IMPROVE
       - Still the same, im still lack of time management
+      
+  - 11/8/2022
+    
+    - WHAT I LEARNED TODAY
+      - Configuring how to change page immediately after submit a data
+      
+    - WHAT I DID I DO WELL
+      - Create ADD_NEWS page & function
+      - Create DEELETE_NEWS page & function
+      - Create DETAILS_NEWS page & function
+      
+    - WHAT I NEED TO IMPROVE
+      - I need to learn by doing more than watching the lecture video
