@@ -219,3 +219,40 @@
       
     - WHAT I NEED TO IMPROVE
       - I need to learn by doing more than watching the lecture video
+
+ - 11/9/2022
+    
+    - WHAT I LEARNED TODAY
+      - Learning about how to use Axios properly
+      
+    - WHAT I DID I DO WELL
+      - Create ADD_NEWS page & function
+      - Create DEELETE_NEWS page & function
+      - Create DETAILS_NEWS page & function
+      
+    - WHAT I NEED TO IMPROVE
+      - I need to learn by doing more than watching the lecture video
+  
+ - 11/10/2022
+    
+    - WHAT I LEARNED TODAY
+      - Learning how to fix bug in update function
+      
+    - WHAT I DID I DO WELL
+      - Finishing all the function we can implement
+      
+    - WHAT I NEED TO IMPROVE
+      - I need to learn by doing more than watching the lecture video
+ 
+ 
+  - 11/11/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to clone an app
+      
+    - WHAT I DID I DO WELL
+      - Discussing what app my team gonna use for cloning app project
+      - Making the wireframe
+   
+    - WHAT I NEED TO IMPROVE
+      - I need to learn by doing more than watching the lecture video
