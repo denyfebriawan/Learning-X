@@ -256,3 +256,81 @@
    
     - WHAT I NEED TO IMPROVE
       - I need to learn by doing more than watching the lecture video
+ 
+ 
+ - 11/14/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to clone an app
+      
+    - WHAT I DID I DO WELL
+      - Start doing the module login & register
+   
+    - WHAT I NEED TO IMPROVE
+      - Still struggling with using redux properly
+      
+  
+   - 11/15/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to clone an app
+      
+    - WHAT I DID I DO WELL
+      - Start doing the module login & register
+   
+    - WHAT I NEED TO IMPROVE
+      - Need more learning time
+      
+      
+    
+     - 11/16/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to clone an app
+      
+    - WHAT I DID I DO WELL
+      - Half done with login register module
+   
+    - WHAT I NEED TO IMPROVE
+      - Need more time for integrating module
+      
+     
+     - 11/17/2022
+    
+    - WHAT I LEARNED TODAY
+      - How to clone an app
+      
+    - WHAT I DID I DO WELL
+      - Done implementing login register module
+   
+    - WHAT I NEED TO IMPROVE
+      - Still struggling with integrating with other teammate module
+    
+    
+    
+     - 11/18/2022
+    
+    - WHAT I LEARNED TODAY
+      - First step on using node js
+      
+    - WHAT I DID I DO WELL
+      - Learning from the video
+   
+    - WHAT I NEED TO IMPROVE
+      - Need more time for learning node
+     
+     
+   
+     - 11/21/2022
+    
+    - WHAT I LEARNED TODAY
+      - First step on using node js
+      
+    - WHAT I DID I DO WELL
+      - Learning from the video
+   
+    - WHAT I NEED TO IMPROVE
+      - Need more time for learning node
+
+
+
