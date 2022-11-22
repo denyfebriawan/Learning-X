@@ -331,6 +331,17 @@
    
   - WHAT I NEED TO IMPROVE
     - Need more time for learning node
+    
+ - 11/22/2022
+    
+  - WHAT I LEARNED TODAY
+    - Setting up mongodb using node js
+      
+  - WHAT I DID I DO WELL
+    - Setting up mongodb using node js
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
 
 
 
