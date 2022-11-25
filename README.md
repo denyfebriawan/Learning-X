@@ -342,6 +342,23 @@
    
   - WHAT I NEED TO IMPROVE
     - Time management
+    
+    
+- 11/22/2022
+    
+  - WHAT I LEARNED TODAY
+    - How to make object
+    - How to destructuring assignment
+    - Handling Error
+    - Understanding what is class
+    - Hoisting
+      
+  - WHAT I DID I DO WELL
+    - Finish all javascript lecture
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
+
 
 
 
