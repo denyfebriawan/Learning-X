@@ -344,7 +344,7 @@
     - Time management
     
     
-- 11/22/2022
+- 11/25/2022
     
   - WHAT I LEARNED TODAY
     - How to make object
