@@ -360,5 +360,18 @@
     - Time management
 
 
+- 11/28/2022
+    
+  - WHAT I LEARNED TODAY
+    - How to use cookie
+    - How to use session
+    - How to use JWT
+      
+  - WHAT I DID I DO WELL
+    - Success on implementing cookie, session, and JWT
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
+
 
 
