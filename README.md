@@ -373,5 +373,15 @@
   - WHAT I NEED TO IMPROVE
     - Time management
 
+- 11/29/2022
+    
+  - WHAT I LEARNED TODAY
+    - How to set validation using JWT
+      
+  - WHAT I DID I DO WELL
+    - Success on implementing validation
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
 
 
