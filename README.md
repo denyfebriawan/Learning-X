@@ -384,4 +384,25 @@
   - WHAT I NEED TO IMPROVE
     - Time management
 
-
+- 11/30/2022
+    
+  - WHAT I LEARNED TODAY
+    - How set middleware on routes
+      
+  - WHAT I DID I DO WELL
+    - Success on implementing middleware
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
+  
+- 11/30/2022
+    
+  - WHAT I LEARNED TODAY
+    - Configuring error on cookies
+      
+  - WHAT I DID I DO WELL
+    - Nothing
+   
+  - WHAT I NEED TO IMPROVE
+    - Time management
+  
