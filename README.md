@@ -395,7 +395,7 @@
   - WHAT I NEED TO IMPROVE
     - Time management
   
-- 11/30/2022
+- 12/1/2022
     
   - WHAT I LEARNED TODAY
     - Configuring error on cookies
@@ -405,4 +405,15 @@
    
   - WHAT I NEED TO IMPROVE
     - Time management
-  
+    
+ 
+ - 12/15/2022
+ 
+  - WHAT I LEARNED TODAY
+    - ......
+      
+  - WHAT I DID I DO WELL
+    - ......
+   
+  - WHAT I NEED TO IMPROVE
+    - ......
