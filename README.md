@@ -417,3 +417,15 @@
    
   - WHAT I NEED TO IMPROVE
     - ......
+ 
+ - 12/26/2022
+ 
+  - WHAT I LEARNED TODAY
+    - Review express.js basic
+  
+  - WHAT I DID WELL
+    - Discussing about MVP together with my teammates
+  
+  - WHAT I NEED TO IMPROVE
+    - My coding skill
+
